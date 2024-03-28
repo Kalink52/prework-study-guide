@@ -1,2 +1,2 @@
 # prework-study-guide
-Prework Stufy guide assignment
+Prework Study guide assignment
